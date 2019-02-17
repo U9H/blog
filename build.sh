@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 zola_version="0.5.1"
-repo="front"
+repo="blog"
 
 # download repo recursively 
 git clone --recurse-submodules -j8 "https://github.com/U9H/${repo}" $repo
