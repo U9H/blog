@@ -1,0 +1,3 @@
+[submodule "themes/magazine"]
+	path = themes/magazine
+	url = git@github.com:U9H/magazine.git
