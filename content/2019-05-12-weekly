@@ -1,0 +1,15 @@
++++ 
+title = "2019-05-12 — Weekly Update" 
+date = 2019-05-12 draft = false 
+description = "What I'm working on this week"
+
+[taxonomies] 
+authors = ["Alexander Lozada"] 
+categories = ["news"] 
++++
+
+Not much to tell this past week, unfortunately. I've been very busy with personal matters. Well, that - and playing [Satisfactory](https://www.satisfactorygame.com/)
+
+I've been playing around with Amethyst and *finally* got a sprite displaying! I'm trying to develop something similar to a VN engine, which I think is a very attainable goal. 
+
+This week, I'm most likely going to accomplish little in terms of volunteer and side projects due to ongoing personal matters. But if I get an oppurtunity, I'd like to explore Amethyst a bit more, finish up some pages for rust.audio, and further update my personal site to fix a few bugs and improve performance.
